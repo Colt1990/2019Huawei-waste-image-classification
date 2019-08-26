@@ -4,5 +4,5 @@
 
 model | epochs | Tricks |  
 ----  | --- | ---| ---  
-Resnet18 |50 | |78~79  
-Densenet101|50 | 85  
+Resnet18 | 50 |  | 78~79  
+Densenet101 | 50 | 85  
