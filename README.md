@@ -12,5 +12,9 @@ Resnext101 32*16d fulltune | 50+50  | Label Smoothing           | 94.1
 Resnext101 32*16d fulltune | 50+50  | Label Smoothing+水平flip  | 94.5
 Resnext101 32*16d fulltune | 50+100 | Label Smoothing+水平flip+CJ  | 94.68
 Resnext101 32*16d fulltune | 50+100 | Label Smoothing+水平flip+CJ+TTA  |95.4
+Resnext101 32*16d fulltune | 50+100 | Mixup+水平flip   |94.4
+Resnext101 32*16d fulltune | 50+100 | Mixup+水平flip   |94.4
+Resnext101 32*16d fulltune | 50+100 | Mixup+Label Smoothing+水平flip   |94.77
+
 
 TTA:Tencrop average 
