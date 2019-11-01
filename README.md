@@ -18,3 +18,5 @@ Resnext101 32*16d fulltune | 50+100 | Mixup+Label Smoothing+水平flip   |94.77
 
 
 TTA:Tencrop average ,   CJ:Color jitting(0.3,0.3,0.3)
+
+Radam , Ranger +CosineAnnealingWarmRestarts   
